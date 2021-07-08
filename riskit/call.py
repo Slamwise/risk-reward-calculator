@@ -133,8 +133,8 @@ if __name__ == "__main__":
 
   #You're input here:
   ticker = 'AAPL'     #Uppercase
-  date = '15-08-2021' #DD-MM-YYYY Earliest date by which you believe the target price will be hit
-  target = '20'       #What you think the price will reach by the date
+  date = '12-08-2021' #DD-MM-YYYY Earliest date by which you believe the target price will be hit
+  target = '152'       #What you think the price will reach by the date
   risk = '1000'       #Amount of money to risk
   # press play
 
