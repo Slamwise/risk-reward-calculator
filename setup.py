@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='riskkit',
+    name='riskit',
     version='0.0.0',
     description='Identify options strikes with the best risk/reward ratio for your stock plays',
     url='https://github.com/Slamwise/risk-reward-calculator.git',
