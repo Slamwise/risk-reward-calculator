@@ -1,4 +1,4 @@
-from riskit.riskit import call
+from riskit import call
 from pkg_resources import get_distribution, DistributionNotFound
 import os.path
 
