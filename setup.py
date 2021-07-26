@@ -32,5 +32,5 @@ setup(
         'Programming Language :: Python :: 3.5',
     ],
     keywords='stocks options finance market shares greeks implied volatility risk reward yolo',
-    install_requires=['requests', 'beautifulsoup4', 'scipy', 'json', 'dateutil', 'warnings'],
+    install_requires=['requests', 'beautifulsoup4', 'scipy', 'dateutil', 'warnings'],
 )
